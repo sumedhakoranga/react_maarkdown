@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_maarkdown/static/css/main.f855e6bc.css",
+    "main.js": "/react_maarkdown/static/js/main.a2075f5e.js",
+    "static/js/787.3c1a5a29.chunk.js": "/react_maarkdown/static/js/787.3c1a5a29.chunk.js",
+    "index.html": "/react_maarkdown/index.html",
+    "main.f855e6bc.css.map": "/react_maarkdown/static/css/main.f855e6bc.css.map",
+    "main.a2075f5e.js.map": "/react_maarkdown/static/js/main.a2075f5e.js.map",
+    "787.3c1a5a29.chunk.js.map": "/react_maarkdown/static/js/787.3c1a5a29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a2075f5e.js"
+  ]
+}
